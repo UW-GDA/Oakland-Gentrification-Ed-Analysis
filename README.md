@@ -33,7 +33,12 @@ A few tools and packages we are considering using:
 * [matplotlib](https://matplotlib.org/stable/index.html)
 
 ## Planned methodology/approach
-TODO: Planned methodology/approach
+We do not have a super well defined methodology. Here's a few phases we have outlined:
+* Merge school location data w/gentrification classifications to determine what stage of gentrification schools are classified as.
+* Determine a dataset of educational data that we wish to explore in the context of gentrification.
+* Merge our educational dataset with the school/gentrification dataset.
+* Analyze the data in an exploratory manner. This would involve making plots, calculating aggregate statistics, and maybe some other simple statistical methods for seeing if there are any interesting trends in the data.
+* If an interesting trend is found, further explore that trend using more involved methods. Maybe related to linear regression, clustering, removing outliers, etc. 
 
 ## Expected Outcomes
 We do not have any strong expected outcomes at the moment.
