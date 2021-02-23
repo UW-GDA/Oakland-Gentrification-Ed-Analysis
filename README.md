@@ -17,7 +17,26 @@ Gentrification is difficult to measure, as there are a lot of factors that could
 Since gentrification is a powerful transformation of a space, we wanted to explore any trends in schools/students related to that transformation. Oakland Unified School District has some public facing datasets which we will analyze in the context of our gentrification data.
 
 ## Questions we will explore
-TODO: Problem statement, question(s) and/or objective(s)
+* Problem Statement
+In Oakland, California gentrification has become a highly contentious public issue. As long standing communities are bulldozed to make way for new housing developments many activists, city planners and concerned citizens are left to wonder how this will impact public services and the community at large. 
+
+Oakland Unified School District is a highly diverse school district serving 35,000 students across a mosaic of campuses, including public and charter schools. The majority of the students OUSD attend “Title 1” schools and receive free and reduced lunch. 
+
+While gentrification has provided a mixed bag of outcomes, the changes have been real. Students, teachers and administers have been forced to confront and grapple with low enrollment, budget cuts and a declining quality of education. While gentrification may bring money and resources into communities cities are rapidly changing but outdated and underfunded schools have not. 
+
+One of the major determinants of resource supply and demand is OUSD’s school choice policy. Students can theoretically apply to any school in the district, creating a fairly fluid network of choices within the district. This policy has been studied extensively and has been shown to create segregation across the district further exacerbating issues around funding and equity.
+
+Our research will examine three different comprehensive district high schools. We chose these schools due to their gentrification categorization (Urban Displacement Project) while controlling for relative school size.
+
+
+*Questions
+
+Our research hopes to examine the relationship between three key relationships:
+1- How has school enrollment demand changed across our study area over the last five years?
+2- What community resources help create communities that are resilient to gentrification?
+3- How has the increase in average home prices across our study areas impacted standardized test scores (CAASPP MAth and English) across five years?
+
+*Objectives
 
 ## Datasets we will use
 A few datasets we may use:
