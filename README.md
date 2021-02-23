@@ -9,20 +9,21 @@ Gentrification is defined by the Urban Displacement Project as:
 > "A process of neighborhood change that includes economic change in a historically disinvested neighborhood —by means of real estate investment and new higher-income residents moving in - as well as demographic change - not only in terms of income level, but also in terms of changes in the education level or racial make-up of residents."
 
 
-The Bay Area and Oakland specifically have experienced rapid gentrification in the past decade,
+The Bay Area has experienced rapid gentrification in the past decade,
 with 1/3 of poor neighborhoods experiencing some form of gentrification between 2013 and 2017, the highest rate in the country.
 
 Gentrification is difficult to measure, as there are a lot of factors that could be used to classify a neighborhood as being "gentrified" some easier to track than others. The Urban Displacement Project has produced a system for classifying neighborhoods in varying stages of gentrification, which we will use for this project.
 
 Since gentrification is a powerful transformation of a space, we wanted to explore any trends in schools/students related to that transformation. Oakland Unified School District has some public facing datasets which we will analyze in the context of our gentrification data.
 
+
+Oakland Unified School District is a highly diverse school district serving 35,000 students across a mosaic of campuses, including public and charter schools. The majority of the students OUSD attend “Title 1” schools and receive free and reduced lunch. 
+
 ## Questions we will explore
 
 ### PROBLEM STATEMENT
 
-In Oakland, California gentrification has become a highly contentious public issue. As long standing communities are bulldozed to make way for new housing developments many activists, city planners and concerned citizens are left to wonder how this will impact public services and the community at large. 
 
-Oakland Unified School District is a highly diverse school district serving 35,000 students across a mosaic of campuses, including public and charter schools. The majority of the students OUSD attend “Title 1” schools and receive free and reduced lunch. 
 
 While gentrification has provided a mixed bag of outcomes, the changes have been real. Students, teachers and administers have been forced to confront and grapple with low enrollment, budget cuts and a declining quality of education. While gentrification may bring money and resources into communities cities are rapidly changing but outdated and underfunded schools have not. 
 
@@ -34,9 +35,9 @@ Our research will examine three different comprehensive district high schools. W
 ### QUESTIONS
 
 Our research hopes to examine the relationship between three key relationships:
-* 1 How has school enrollment demand changed across our study area over the last five years?
-* 2 What community resources help create communities that are resilient to gentrification?
-* 3 How has the increase in average home prices across our study areas impacted standardized test scores (CAASPP MAth and English) across five years?
+* 1: How has school enrollment demand changed across our study area over the last five years?
+* 2: What community resources help create communities that are resilient to gentrification?
+* 3: How has the increase in average home prices across our study areas impacted standardized test scores (CAASPP MAth and English) across five years?
 
 ### OBJECTIVES
 
@@ -60,12 +61,24 @@ A few tools and packages we are considering using:
 * [matplotlib](https://matplotlib.org/stable/index.html)
 
 ## Planned methodology/approach
-We do not have a super well defined methodology. Here's a few phases we have outlined:
+Below we have defined our inital steps with possible types of analyis. 
+
 * Merge school location data w/gentrification classifications to determine what stage of gentrification schools are classified as.
+
 * Determine a dataset of educational data that we wish to explore in the context of gentrification.
 * Merge our educational dataset with the school/gentrification dataset.
 * Analyze the data in an exploratory manner. This would involve making plots, calculating aggregate statistics, and maybe some other simple statistical methods for seeing if there are any interesting trends in the data.
 * If an interesting trend is found, further explore that trend using more involved methods. Maybe related to linear regression, clustering, removing outliers, etc. 
+
+* Determine the type of tests we will use for our analysis. 
+- Probabliity Density Function
+- Quantile Plot
+- Linear Regression
+- Kernal Density Estimator 
+- Interactive Plot
+* [Analysis Tools](https://docs.google.com/document/d/1hmbMBqoenpnPv53Zm4xFynkerhlspK5lJ_npcwF0iqY/edit?usp=sharing)
+
+
 
 ## Expected Outcomes
 We do not have any strong expected outcomes at the moment.
