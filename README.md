@@ -17,7 +17,7 @@ Gentrification is difficult to measure, as there are a lot of factors that could
 Since gentrification is a powerful transformation of a space, we wanted to explore any trends in schools/students related to that transformation. Oakland Unified School District has some public facing datasets which we will analyze in the context of our gentrification data.
 
 ## Questions we will explore
-* Problem Statement
+PROBLEM STATEMENT
 In Oakland, California gentrification has become a highly contentious public issue. As long standing communities are bulldozed to make way for new housing developments many activists, city planners and concerned citizens are left to wonder how this will impact public services and the community at large. 
 
 Oakland Unified School District is a highly diverse school district serving 35,000 students across a mosaic of campuses, including public and charter schools. The majority of the students OUSD attend “Title 1” schools and receive free and reduced lunch. 
@@ -29,14 +29,14 @@ One of the major determinants of resource supply and demand is OUSD’s school c
 Our research will examine three different comprehensive district high schools. We chose these schools due to their gentrification categorization (Urban Displacement Project) while controlling for relative school size.
 
 
-*Questions
+QUESTIONS
 
 Our research hopes to examine the relationship between three key relationships:
 1- How has school enrollment demand changed across our study area over the last five years?
 2- What community resources help create communities that are resilient to gentrification?
 3- How has the increase in average home prices across our study areas impacted standardized test scores (CAASPP MAth and English) across five years?
 
-*Objectives
+OBJECTIVES
 
 ## Datasets we will use
 A few datasets we may use:
