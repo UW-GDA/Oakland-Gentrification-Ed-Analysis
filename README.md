@@ -52,7 +52,7 @@ A few datasets we may use:
 * [Urban Displacement Project](https://www.urbandisplacement.org/)
 * [Oakland School Locations](https://data.oaklandca.gov/Education/Map-of-Oakland-Public-Schools/trbj-7f28)
 * [Oakland School Educational Data](http://www.ousddata.org/)
-* [American Community Survey Data] (https://www.census.gov/programs-surveys/acs/data.html)
+* [American Community Survey Data](https://www.census.gov/programs-surveys/acs/data.html)
 
 ## Tools/packages we will use
 A few tools and packages we are considering using:
