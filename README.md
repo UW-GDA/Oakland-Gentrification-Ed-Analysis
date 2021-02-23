@@ -17,7 +17,7 @@ Gentrification is difficult to measure, as there are a lot of factors that could
 Since gentrification is a powerful transformation of a space, we wanted to explore any trends in schools/students related to that transformation. Oakland Unified School District has some public facing datasets which we will analyze in the context of our gentrification data.
 
 
-Oakland Unified School District is a highly diverse school district serving 35,000 students across a mosaic of campuses, including public and charter schools. The majority of the students OUSD attend “Title 1” schools and receive free and reduced lunch. 
+Oakland Unified School District (OUSD) is a highly diverse school district serving 35,000 students across a mosaic of campuses, including public and charter schools. The majority of the students OUSD attend “Title 1” schools and receive free and reduced lunch. 
 
 ## Questions we will explore
 
@@ -25,7 +25,7 @@ Oakland Unified School District is a highly diverse school district serving 35,0
 
 
 
-While gentrification has provided a mixed bag of outcomes, the changes have been real. Students, teachers and administers have been forced to confront and grapple with low enrollment, budget cuts and a declining quality of education. While gentrification may bring money and resources into communities cities are rapidly changing but outdated and underfunded schools have not. 
+While gentrification has provided a mixed bag of outcomes, the changes have been real. Students, teachers and administrators have been forced to confront and grapple with low enrollment, budget cuts and a declining quality of education. While gentrification may bring money and resources into communities and change cities rapidly, schools have largely remained unchanged, outdated and underfunded. 
 
 One of the major determinants of resource supply and demand is OUSD’s school choice policy. Students can theoretically apply to any school in the district, creating a fairly fluid network of choices within the district. This policy has been studied extensively and has been shown to create segregation across the district further exacerbating issues around funding and equity.
 
@@ -37,7 +37,7 @@ Our research will examine three different comprehensive district high schools. W
 Our research hopes to examine the relationship between three key relationships:
 * 1: How has school enrollment demand changed across our study area over the last five years?
 * 2: What community resources help create communities that are resilient to gentrification?
-* 3: How has the increase in average home prices across our study areas impacted standardized test scores (CAASPP MAth and English) across five years?
+* 3: How has the increase in average home value across our study areas impacted standardized test scores (CAASPP MAth and English) across five years?
 
 ### OBJECTIVES
 
@@ -52,6 +52,7 @@ A few datasets we may use:
 * [Urban Displacement Project](https://www.urbandisplacement.org/)
 * [Oakland School Locations](https://data.oaklandca.gov/Education/Map-of-Oakland-Public-Schools/trbj-7f28)
 * [Oakland School Educational Data](http://www.ousddata.org/)
+* [American Community Survey Data] (https://www.census.gov/programs-surveys/acs/data.html)
 
 ## Tools/packages we will use
 A few tools and packages we are considering using:
