@@ -91,6 +91,24 @@ be able to claim any causations in the scope of this project.
 We do suspect that gentrification interacts with schools and students in a variety of ways,
 but we aren't sure if the data will show those interactions or necessarily what they are.
 
+## Project Organization
+There are three main directories within the project:
+* `notebooks` includes notebooks we used to conduct analysis and organize our thought processes.
+* `scripts` includes a few random scripts for data processessing.
+* `data` includes datasets we used throughout the project.
+
+## Observations/notes/conclusions
+Overall we found it very hard to draw conclusions mostly because there are a lot of different factors at play and our datasets are fairly limited. Individual notes and observations are below.
+### MacKenzie's observations/notes/conclusions
+
+### Craig's observations/notes/conclusions
+
+### Porter's observations/notes/conclusions
+
+## Future research
+Some questions we thought would be interesting to explore in the future:
+* 
+
 ## Other Information
 We are currently looking for related research on gentrification's impact on schools
 and will update our outline as we find things.
