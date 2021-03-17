@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
-import pandas as pd
 import geopandas as gpd
+import numpy as np
+import pandas as pd
 
 # Load each of the individual demand DataFrames
 df_16_17 = pd.read_csv('../data/ousd_demand_16-17.csv')
@@ -12,11 +13,11 @@ df_20_21 = pd.read_csv('../data/ousd_demand_20-21.csv')
 
 # Add columns for each year of demand data
 final_df = df_16_17
-final_df['demand_16_17'] = df_16_17['Demand']
-final_df['demand_17_18'] = df_17_18['Demand']
-final_df['demand_18_19'] = df_18_19['Demand']
-final_df['demand_19_20'] = df_19_20['Demand']
-final_df['demand_20_21'] = df_20_21['Demand']
+final_df['demand_16_17'] = df_16_17['Demand'].str.replace('%', '').astype(np.float)
+final_df['demand_17_18'] = df_17_18['Demand'].str.replace('%', '').astype(np.float)
+final_df['demand_18_19'] = df_18_19['Demand'].str.replace('%', '').astype(np.float)
+final_df['demand_19_20'] = df_19_20['Demand'].str.replace('%', '').astype(np.float)
+final_df['demand_20_21'] = df_20_21['Demand'].str.replace('%', '').astype(np.float)
 
 # Clean up columns
 final_df = final_df.drop(columns=['Demand', 'Year', 'sitename CDE.1'])
