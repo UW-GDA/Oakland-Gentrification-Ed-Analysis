@@ -100,14 +100,14 @@ There are three main directories within the project:
 ## Observations/notes/conclusions
 Overall we found it very hard to draw conclusions mostly because there are a lot of different factors at play and our datasets are fairly limited. Individual notes and observations are below.
 ### MacKenzie's observations/notes/conclusions
-
+* No pattern emerge when plotting school size based on gentrification typoloy. In other words, all the small schools or all the big schools are not in one specific typology or even on the same group of being gentrified at risk versus not at risk. Similarly, there was no pattern among schools' average change in enrollment over the past five years based on typology. Notably, the majority of schools at the high end of enrolmment changes were elementary schools. 
 ### Craig's observations/notes/conclusions
 
 ### Porter's observations/notes/conclusions
 
 ## Future research
 Some questions we thought would be interesting to explore in the future:
-* 
+* What factors contribute to changes in enrollment and demand if not gentrification?
 
 ## Other Information
 We are currently looking for related research on gentrification's impact on schools
