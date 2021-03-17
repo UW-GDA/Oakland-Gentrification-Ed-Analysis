@@ -104,10 +104,19 @@ Overall we found it very hard to draw conclusions mostly because there are a lot
 ### Craig's observations/notes/conclusions
 
 ### Porter's observations/notes/conclusions
+I looked at how students sense of belonging changed in relation to gentrification. There weren't any strong trends, but one thing that seemed interesting is the two schools w/highest positive change in sense of belonging were located on the edge of an "Advanced Exclusive" area. 
+
+I found it hard to draw meaning/relationships in my analysis. A student's sense of belonging has a lot to do with the school environment/individual staff members, which may be affected by gentrification but probably very indirectly.
+
+Our datasets are also relatively small, so any outliers make a huge difference and it is tough to run traditional statistical analyses robustly.
+
+I think that in general, we struggled a lot with data transparency and aggregation, which I think may be common in many disciplines, but seemed stark contrast to some of the other geographic datasets we looked at. While all data requires processing, we struggled a lot with just downloading comprehensive datasets for educational statistics, which slowed us down quite a bit, yet alone filtering/analyzing those as best we could.
 
 ## Future research
 Some questions we thought would be interesting to explore in the future:
-* 
+* Does learning about gentrification in local communities affect students? Could look at affects on interests, goals, mental health, grades, etc.
+* Does gentrification/red lining affect school districts with more neighborhood-based enrollment policies (e.g. Seattle)?
+* Does gentrification affect staff retainment?
 
 ## Other Information
 We are currently looking for related research on gentrification's impact on schools
