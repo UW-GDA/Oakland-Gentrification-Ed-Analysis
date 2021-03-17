@@ -114,13 +114,10 @@ I think that in general, we struggled a lot with data transparency and aggregati
 
 ## Future research
 Some questions we thought would be interesting to explore in the future:
-<<<<<<< HEAD
 * Does learning about gentrification in local communities affect students? Could look at affects on interests, goals, mental health, grades, etc.
 * Does gentrification/red lining affect school districts with more neighborhood-based enrollment policies (e.g. Seattle)?
 * Does gentrification affect staff retainment?
-=======
 * What factors contribute to changes in enrollment and demand if not gentrification?
->>>>>>> 2accc41c1bf0fb2a4b616d5e572734424f9da71d
 
 ## Other Information
 We are currently looking for related research on gentrification's impact on schools
