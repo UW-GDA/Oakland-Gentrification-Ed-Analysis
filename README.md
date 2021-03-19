@@ -100,7 +100,10 @@ There are three main directories within the project:
 ## Observations/notes/conclusions
 Overall we found it very hard to draw conclusions mostly because there are a lot of different factors at play and our datasets are fairly limited. Individual notes and observations are below.
 ### MacKenzie's observations/notes/conclusions
-* No pattern emerge when plotting school size based on gentrification typoloy. In other words, all the small schools or all the big schools are not in one specific typology or even on the same group of being gentrified at risk versus not at risk. Similarly, there was no pattern among schools' average change in enrollment over the past five years based on typology. Notably, the majority of schools at the high end of enrolmment changes were elementary schools. 
+No patterns emerged when plotting school size based on gentrification typoloy. In other words, all the small schools or all the big schools are not in one specific typology or even on the same group of being gentrified at risk versus not at risk. Similarly, there was no pattern among schools' average change in enrollment over the past five years based on typology. Notably, the majority of schools at the high end of enrolmment changes were elementary schools.
+
+If I were to keep working on this project, I would want to do more focused analyzes among schools in similiar typologies and among school types (elementary, midlle and high). It would also be helpful to bring in other datasets like the American Community Survey to see what other socio-economic factors could be contributing to students' achievement and satisfaction.
+
 ### Craig's observations/notes/conclusions
 
 ### Porter's observations/notes/conclusions
