@@ -105,6 +105,13 @@ No patterns emerged when plotting school size based on gentrification typoloy. I
 If I were to keep working on this project, I would want to do more focused analyzes among schools in similiar typologies and among school types (elementary, midlle and high). It would also be helpful to bring in other datasets like the American Community Survey to see what other socio-economic factors could be contributing to students' achievement and satisfaction.
 
 ### Craig's observations/notes/conclusions
+Education data is oftentimes difficult to analyze due to an array of variables that must be accounted for in addition to inconsistent data collection. Perhaps the most difficult part of our project was identifying quality data that had been collected for a continuous time period. My analysis centered around two specific domains, School Policy/Planning and Student Centered outcomes. 
+
+Oakland Unified School District operates under an "Open Enrollment" policy, meaning that students can theoretically attend any school in the district. The intention behind this policy was to allow individual families to be able to send their students to other schools in the district if transportation, student interests or quality of education did not align with their needs. In practice this means that students travel close to a 250,000 miles every day to attend school while destabilizing enrollment for individual schools. 
+
+Our analysis of school demand indicated that two of the four schools saw a statistically significant increase (R^2>0.5) in demand across our 10 year study period, while the other two saw no change. Our ANOVA indicated that one site had a median enrollment demand value that was higher than the other three sites. However when we looked at the dataset as a whole there was little to no change in enrollment demand across the district. Similarly when analyzing the graduation data our dataset could not confirm an increase in graduation rates across the district, while individual sites saw fluctuations during this period. 
+
+To make any definitive conclusions would be reckless, however it would be interesting to look further into these relationships to determine if this expensive and complicated enrollment policy                                                                          achieves the stated goals. 
 
 ### Porter's observations/notes/conclusions
 I looked at how students sense of belonging changed in relation to gentrification. There weren't any strong trends, but one thing that seemed interesting is the two schools w/highest positive change in sense of belonging were located on the edge of an "Advanced Exclusive" area. 
